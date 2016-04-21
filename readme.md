@@ -1,34 +1,29 @@
-# _{AddressBook}_
+# AddressBook
 
-#### _{address book application demonstrating mastery of c# objects}, {2/12/2016}_
+#### address book application demonstrating mastery of c# objects 2/12/2016
 
-#### By _**{lawtonB}**_
+#### By lawtonB
 
 ## Description
 
-_{this address book declares contact class, saves information via forms and returns info to user and deletes all contact information with a button press}_
+This address book declares contact class, saves information via forms and returns info to user and deletes all contact information with a button press
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
 
-_{run from c# command line using dnu kestrel}_
+run from c# command line using dnu kestrel and dnx restore
 
 ## Known Bugs
 
-_{phone numbers including area code may return error}_
+phone numbers including area code may return error
 
 ## Support and contact details
 
-_{contact at lawton.a.browning@gmail.com.}_
+contact at lawton.a.browning@gmail.com
 
 ## Technologies Used
 
-_{C#}_
+C#
 
 ### License
 
